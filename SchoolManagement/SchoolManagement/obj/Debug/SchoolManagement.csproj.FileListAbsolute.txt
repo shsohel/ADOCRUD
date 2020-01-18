@@ -1,0 +1,15 @@
+C:\Users\SH SOHEL\Desktop\Viva Preparation\SchoolManagement\SchoolManagement\bin\Debug\SchoolManagement.exe.config
+C:\Users\SH SOHEL\Desktop\Viva Preparation\SchoolManagement\SchoolManagement\bin\Debug\SchoolManagement.exe
+C:\Users\SH SOHEL\Desktop\Viva Preparation\SchoolManagement\SchoolManagement\bin\Debug\SchoolManagement.pdb
+C:\Users\SH SOHEL\Desktop\Viva Preparation\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.Home.resources
+C:\Users\SH SOHEL\Desktop\Viva Preparation\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.Forms.Login.resources
+C:\Users\SH SOHEL\Desktop\Viva Preparation\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.Properties.Resources.resources
+C:\Users\SH SOHEL\Desktop\Viva Preparation\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.UserControls.AddClassUC.resources
+C:\Users\SH SOHEL\Desktop\Viva Preparation\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.UserControls.HomePageUC.resources
+C:\Users\SH SOHEL\Desktop\Viva Preparation\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.csproj.GenerateResource.cache
+C:\Users\SH SOHEL\Desktop\Viva Preparation\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.exe
+C:\Users\SH SOHEL\Desktop\Viva Preparation\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.pdb
+C:\Users\SH SOHEL\Desktop\Viva Preparation\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.UserControls.UpdateClassUC.resources
+C:\Users\SH SOHEL\Desktop\Viva Preparation\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.UserControls.AddStudentUC.resources
+C:\Users\SH SOHEL\Desktop\Viva Preparation\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.UserControls.UpdateStudentUC.resources
+C:\Users\SH SOHEL\Desktop\Viva Preparation\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.csprojAssemblyReference.cache
